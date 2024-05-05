@@ -4,7 +4,7 @@ the Community Lost and Found Application. In a world where misplaced belongings 
 
 Installation
 1. Clone the repository to your local machine
-   https://github.com/Vineeth0502/lost-found.git
+   https://github.com/smalla5s/LostFound.git
 2. Navigate to the project directory:
    cd lost-found
 3. Install dependencies using npm:
